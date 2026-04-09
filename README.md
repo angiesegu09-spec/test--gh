@@ -13,9 +13,9 @@ git add --all
 git commit -m "comentario"
 ```
 
-# Hola  Soy Angie Yurley Segura Lugo
+#Agregando mi perfil de desarrolladora
 
-<img src="https://github.com/TU-USUARIO.png" width="150"/>
+Hola  Soy Angie Yurley Segura Lugo
 
 ## Sobre mí
 Soy desarrolladora en formación apasionada por la tecnología y el aprendizaje constante.
