@@ -18,20 +18,19 @@ git commit -m "comentario"
 
  ```Hola  Soy Angie Yurley Segura Lugo
 
-# Sobre mí
+SOBRE MI 
 Soy desarrolladora en formación apasionada por la tecnología y el aprendizaje constante.
 
  Tumaco, Nariño - Colombia  
 angiesegu09@gmail.com  
 3168135334
- ```
 
-w Actualmente
+ Actualmente
 - Aprendiendo desarrollo de software
 - Creando proyectos
 - Fortaleciendo mis habilidades en Git
 
-#Tecnologías
+Tecnologías
 - HTML
 - CSS
 - Git
